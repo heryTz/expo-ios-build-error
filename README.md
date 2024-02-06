@@ -1,5 +1,7 @@
 # Expo build ios error
 
+Issue: <https://github.com/expo/expo/issues/26942>
+
 ```bash
 Compiling react-native Pods/React-rendererdebug » DebugStringConvertible.cpp
 
